@@ -1,0 +1,67 @@
+
+##No need to translate lines starting with #, those are comments
+# Symbols:
+#	SNES -> \uE031\uE032
+#	GBA -> \uE024\uE025
+#	GCN -> \uE026\uE027
+#	DS -> \uE033
+#	Wii -> \uE067
+#	A button -> \uE000
+#	X button -> \uE002
+#	Touch button -> \uE058
+#	HOME button -> \uE073
+#	POWER button -> \uE078
+#	Line Break -> \n
+# Only the text after the first double colon can be changed, the text before it is the string ID and should not be changed.
+# Make sure you test the language file ingame to check if the line breaks are working properly.
+# The file has to be saved with UTF-8 encoding. Notepad++ is the recommended editor.
+##Ingame text -----------------------------------------------
+
+##Course Names
+
+#Mushroom Cup
+$113 :: \uE022\uE023 Autodrome Mario
+$110 :: \uE067 Volcan Grondant
+
+$114 :: \uE067 Autoroute de la Lune
+
+#Flower Cup
+
+
+$112 :: \uE067 Circuit Luigi
+
+#Star Cup
+
+$116 :: \uE067 Mine d'Or de Wario
+
+
+
+#Special Cup
+
+$122 :: \uE067 Circuit Daisy
+$123 :: Boulevard de la Baie
+$124 :: Château du Temps
+
+#Shell Cup
+$126 :: \uE024\uE025 Plage Shy Guy (cassé)
+$128 :: \uE067 Circuit Luigi
+
+#Banana Cup
+$140 :: \uE026\uE027 Plage Peach
+$126 :: \uE031\uE032 Circuit Mario 1
+$134 :: \uE024\uE025 Parc du Fleuve
+$131 :: \uE026\uE027 Waluigi Stadium
+
+#Leaf Cup
+#nothing added yet 
+
+#Lightning Cup
+$135 :: \uE033 Plage Cheep Cheep
+$138 :: \uE026\uE027 Montagne DK
+
+$141 :: \uE067 Route Arc-en-ciel
+
+#Create new save data text
+%359 :: Un fichier de sauvegarde pour\nMKW3DS sera créé sur la\ncarte SD.
+%357 :: Création du fichier\nde sauvegarde...
+%358 :: Le fichier de sauvegarde\nest créé.
