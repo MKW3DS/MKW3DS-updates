@@ -1,6 +1,6 @@
 PabloMK7=CTGP-7 App, Plugin, A lot of help
 NGT=Custom Tracks, Original idea
-Midou360=App, Plugin, Translations
+Midou360=App, Plugin, Translations, New Owner of the project and maintainer
 IhazCFW= Custom Font For MK7
 Nanquitas=Help, CTRPF, BootNTR Selector
 TheZoroark007=Custom Tracks
