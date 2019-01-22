@@ -5,5 +5,5 @@ IhazCFW= Custom Font For MK7, Beta-tester.
 Nanquitas=Help, CTRPF, BootNTR Selector.
 TheZoroark007=Custom Tracks.
 SMG2=Custom Tracks.
-???????= Translators
+RoyalClasher= German Translations
 You=Mario Kart Wii 3DS Player.
