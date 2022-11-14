@@ -1,0 +1,3 @@
+Take MKW3DS folder and put it in the root of the SD card.
+Take MKW3DS cia file and put it in your "cias" folder.
+Use FBI to install and delete the CIA.
