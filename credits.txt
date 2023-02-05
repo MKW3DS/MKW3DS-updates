@@ -2,6 +2,7 @@ PabloMK7=CTGP-7 App, Plugin, A lot of help
 NGT=Custom Tracks, Original idea
 Midou360=App, Plugin, Translations
 CyberYoshi64=App, Plugin, Translations
+BlackLuma_NNA=App, Custom Tracks
 IhazCFW=Beta tester
 Nanquitas=Help, CTRPF, BootNTR Selector
 TheZoroark007=Custom Tracks
