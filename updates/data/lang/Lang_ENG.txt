@@ -1,0 +1,134 @@
+
+##No need to translate lines starting with #, those are comments
+# Symbols:
+#	SNES -> \uE031\uE032
+#	GBA -> \uE024\uE025
+#	GCN -> \uE026\uE027
+#	DS -> \uE033
+#	Wii -> \uE067
+#	A button -> \uE000
+#	X button -> \uE002
+#	Touch button -> \uE058
+#	HOME button -> \uE073
+#	POWER button -> \uE078
+#	Line Break -> \n
+# Only the text after the first double colon can be changed, the text before it is the string ID and should not be changed.
+# Make sure you test the language file ingame to check if the line breaks are working properly.
+# The file has to be saved with UTF-8 encoding. Notepad++ is the recommended editor.
+##Ingame text -----------------------------------------------
+
+##Course Names
+
+#Mushroom Cup
+$113 :: Luigi Circuit
+$110 :: Moo Moo Meadows
+$111 :: Mushroom Gorge
+$114 :: Toad's Factory
+
+#Flower Cup
+$115 :: Mario Circuit
+$109 :: Coconut Mall
+$118 :: DK Summit
+$112 :: Wario's Gold Mine
+
+#Star Cup
+$117 :: Daisy Circuit
+$116 :: Koopa Cape
+$119 :: Maple Treeway
+$120 :: Grumble Volcano
+
+#Special Cup
+$121 :: Dry Dry Ruins
+$122 :: Moonview Highway
+$123 :: Bowser's Castle
+$124 :: Rainbow Road
+
+#Shell Cup
+$128 :: \uE026\uE027 Peach Beach
+$127 :: \uE033 Yoshi Falls
+$137 :: \uE031\uE032 Ghost Valley 2
+$130 :: \uE022\uE023 Mario Raceway
+
+#Banana Cup
+$140 :: \uE022\uE023 Sherbet Land
+$126 :: \uE024\uE025 Shy Guy Beach
+$134 :: \uE033 Delfino Square
+$131 :: \uE026\uE027 Waluigi Stadium
+
+#Leaf Cup
+$129 :: \uE033 Desert Hills
+$132 :: \uE024\uE025 Bowser Castle 3
+$139 :: \uE022\uE023 DK's Jungle Parkway
+$136 :: \uE026\uE027 Mario Circuit
+
+#Lightning Cup
+$135 :: \uE031\uE032 Mario Circuit 3
+$138 :: \uE033 Peach Gardens
+$133 :: \uE026\uE027 DK Mountain 
+$141 :: \uE022\uE023 Bowser's Castle
+
+#Battle Stages
+$146 :: Block Plaza
+$147 :: Delfino Pier
+$148 :: Galaxy Colosseum
+$143 :: \uE022\uE023 Skyscraper
+$144 :: \uE026\uE027 Cookie Land
+$145 :: \uE033 Twilight House
+
+#Characters
+$10 :: Toadette
+$55 :: Toadette
+$12 :: King Boo
+$57 :: King Boo
+$13 :: Waluigi
+$58 :: Waluigi
+$14 :: Birdo
+$59 :: Birdo
+
+#Kart Body Parts
+$64 :: Mini Beast
+$65 :: Tiny Titan
+$66 :: Piranha Prowler
+$67 :: Daytripper
+$68 :: Flame Flyer
+$69 :: Sprinter
+$70 :: Blue Falcon
+$71 :: Classic Dragster
+$72 :: Booster Seat
+$74 :: Jetsetter
+$75 :: Super Blooper
+$76 :: Wild Wing
+$77 :: Offroader
+$78 :: Cheep Charger
+$79 :: Honeycoupe
+
+#Modes
+%12 :: Single Player
+%13 :: Multiplayer
+%14 :: Nintendo Network
+%15 :: Mario Kart Channel
+
+#Local
+%191 :: Players who do not have\nMario Kart Wii 3DS can\njoin in via Download Play on\nthe \uE073HOME Menu.
+
+#Online
+%211 :: Connecting to\nNintendo Network...
+%212 :: Disconnect from\nNintendo Network?
+%215 :: Searching for opponents...
+%216 :: Your opponents\nhave been chosen!
+%185 :: Please wait a moment.
+%203 :: Please wait a moment.
+%216 :: Please wait a moment.
+%217 :: Preparing the race...
+%218 :: Preparing the battle...
+%189 :: Waiting for\neveryone's vote...
+%190 :: The course\nhas been selected!
+%193 :: The stage\nhas been selected!
+&42 :: You will join the next race. Please wait.
+&43 :: You will join the next battle. Please wait.
+
+#Save Data
+%359 :: Extra save data for\nMario Kart Wii 3DS\nwill be created in the SD card.
+%357 :: Creating extra save data...
+%358 :: Extra save data\nhas been created.
+%361 :: Mario Kart Wii 3DS save data\ndoesn't exist, please launch\nthe game to generate new\nsave data.\n\nPress the POWER button.
